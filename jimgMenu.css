@@ -1,0 +1,58 @@
+
+.jimgMenu_2 ul {
+	list-style: none;
+	margin: 100px;
+	padding: 0px;
+	display: block;
+	height: 200px;
+	position: relative;
+	}
+
+.jimgMenu_2 ul li {
+	width: 200px; 
+	float: left;
+	display: block;
+	overflow: hidden;
+}
+
+.jimgMenu_2 ul li a {
+	text-indent: 0px;
+	background:#fff repeat scroll 0%;
+	border-right: 0px solid #fff;
+	cursor:pointer;
+	display:block;
+	overflow: hidden;
+	height: 100px;
+}
+
+.jimgMenu_2 ul li#obj1 a {
+	background: url(images/obj1.jpg) repeat scroll 0%;
+  
+}
+
+.jimgMenu_2 ul li#obj2 a {
+	background: url(images/obj2.jpg) repeat scroll 0%;
+
+}
+
+.jimgMenu_2 ul li#obj3 a {
+	background: url(images/obj3.jpg) repeat scroll 0%;
+  
+}
+
+.jimgMenu_2 ul li#obj4 a {
+	background: url(images/obj4.jpg) repeat scroll 0%;
+
+}
+
+.jimgMenu_2 ul li#obj5 a {
+	background: url(images/obj5.jpg) repeat scroll 0%;
+	border-right-style: none;
+}
+.jimgMenu_2 ul li#obj6 a {
+	background: url(images/obj6.jpg) repeat scroll 0%;
+	border-right-style: none;
+}
+.clear {
+	clear: both;
+}
